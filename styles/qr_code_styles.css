@@ -15,7 +15,9 @@ p {
   font-style: normal;
   text-align: center;
 }
-
+.text-container {
+  padding: 0 16px;
+}
 .title {
   color: #1f314f;
   margin-bottom: 16px;
