@@ -5,6 +5,8 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  gap: 24px;
+  padding-top: 24px;
 }
 h1,
 p {
@@ -42,7 +44,6 @@ p {
   width: 320px;
   height: 499px;
   padding: 16px 16px 40px 16px;
-  margin-bottom: 40px;
 }
 
 img {
