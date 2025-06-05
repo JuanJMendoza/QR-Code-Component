@@ -14,12 +14,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshots
 
 #### Desktop
-
-<img width="1454" alt="Screenshot 2025-06-04 at 5 31 51 PM" src="https://github.com/user-attachments/assets/ac9c91c9-4405-43e9-a808-cdde224dda0d" />
+<img width="1454" alt="Screenshot 2025-06-04 at 5 31 51 PM" src="https://github.com/user-attachments/assets/0dab5a09-18d8-478b-94b3-9a6798f24b3d" />
 
 #### Mobile
-
-<img width="425" alt="Screenshot 2025-06-04 at 5 32 51 PM" src="https://github.com/user-attachments/assets/4b507805-c36a-4050-9d76-d741cfe88a9f" />
+<img width="425" alt="Screenshot 2025-06-04 at 5 32 51 PM" src="https://github.com/user-attachments/assets/3ba1fa45-a3a2-4b16-af33-4d42ca466fa3" />
 
 ### Links
 
